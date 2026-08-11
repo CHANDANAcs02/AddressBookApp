@@ -1,4 +1,4 @@
-# Project 2: Address Book App
+# Project : Address Book App
 
 ## Project Overview
 
